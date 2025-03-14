@@ -552,8 +552,6 @@ for img in image_files:
     else:
         print(f"Image file {img} does not exist")
 
-!pip install streamlit==1.28.1
-
 import streamlit as st
 import os
 from PIL import Image
