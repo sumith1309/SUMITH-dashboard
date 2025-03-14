@@ -652,9 +652,6 @@ st.caption('S.JYOTHI SWAROOP')
 
 print('Streamlit dashboard code executed successfully.')
 
-!pip install pyngrok --quiet
-
-!pip install streamlit pyngrok
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile jyothiswaroop.py
