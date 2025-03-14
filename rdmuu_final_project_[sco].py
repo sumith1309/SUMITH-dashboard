@@ -757,7 +757,7 @@ print('Streamlit dashboard code executed successfully.')
 # print('Streamlit dashboard code executed successfully.')
 #
 
-!pip install pyngrok
+# !pip install pyngrok
 
-!streamlit run jyothiswaroop.py &
+# !streamlit run jyothiswaroop.py &
 
