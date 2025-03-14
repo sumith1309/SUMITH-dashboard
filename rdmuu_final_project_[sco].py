@@ -152,6 +152,7 @@ class SupplyChainMDP:
         plt.show()
 
 # Create a simple supply chain instance
+import numpy as np
 np.random.seed(42)  # For reproducibility
 supply_chain = SupplyChainMDP(
     num_suppliers=3,
